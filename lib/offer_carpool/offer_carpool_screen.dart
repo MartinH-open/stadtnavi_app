@@ -311,7 +311,7 @@ class _OfferCarpoolScreenState extends State<OfferCarpoolScreen> {
                               if (value.isEmpty) {
                                 return localeName == "en"
                                     ? "Please provide a valid phone number."
-                                    : "Bitte geben sie eine Telefonnummer ein.";
+                                    : "Bitte geben Sie eine Telefonnummer ein.";
                               }
                               return null;
                             },
